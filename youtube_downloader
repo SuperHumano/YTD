@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import filedialog
 from pytube import YouTube
 
-# function called in the download button:
+# function called in the download button
 def download():
     video_url = url.get()  # Get url from Entry field
     try:
