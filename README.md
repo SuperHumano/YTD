@@ -3,7 +3,7 @@ After having the code, and the .ico file in the same directory you can create a 
 1. If you dont have installed the pip pyinstaller, on your terminal:
 pip install pyinstaller
 
-2. Now we create the app, you can adjust the name of main.py to your current .py file that the code is placed:
+2. Now we create the app:
 --onefile --noconsole --icon=YTD.ico main.py
 
 3. A dist directory has been created inside your python's project:
